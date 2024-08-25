@@ -9,7 +9,7 @@ has four tests and all tests must pass to complete the workshop.
 
 1. Clone the respository:
 ```sh
-git clone <repository-url>
+git clone https://github.com/TimothyRedPanda/typescript_workshop
 ```
 2. Navigate into `typescript-workshop`
 ```sh
