@@ -64,11 +64,11 @@ describe("Multiplying numbers in an array by the square of the index", () => {
 		const array = [2, 3, 4];
 		expect(multiplyByIndex(array)).toEqual(19);
 		const array2 = [1, 2, 3, 4, 5];
-		expect(multiplyByIndex(array2)).toEqual(40);
+		expect(multiplyByIndex(array2)).toEqual(130);
 		const array3 = [5, 4, 3, 2, 1];
-		expect(multiplyByIndex(array3)).toEqual(10);
+		expect(multiplyByIndex(array3)).toEqual(50);
 		const array4 = [1, 1, 1, 1, 1];
-		expect(multiplyByIndex(array4)).toEqual(10);
+		expect(multiplyByIndex(array4)).toEqual(30);
 	});
 });
 

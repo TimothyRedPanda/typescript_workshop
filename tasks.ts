@@ -6,7 +6,7 @@
 
 export function sortArray(array: Array<number>): Array<number> {
 	/* Your code here. */
-	return array;
+	return [];
 }
 
 /*
@@ -17,7 +17,7 @@ export function sortArray(array: Array<number>): Array<number> {
 
 export function capitalized(sentence: string): string {
 	/* Your code here. */
-	return sentence;
+	return "";
 }
 
 /*
@@ -29,14 +29,14 @@ export function capitalized(sentence: string): string {
 
 export function summation(n: number): number {
 	/* Your code here. */
-	return n;
+	return 0;
 }
 
 /*
  * Ticket 4: Multiply the numbers in an array by the square of the index and then sum the new array.
  * This function takes in an array of numbers, multiplies each number by the square of its index and then returns the sum of the new array.
  * For instance if the array was [2, 3, 4], should be multiplied by 2 * 0, 3 * 1, 4 * 4 making the new array [0, 3, 16].
- * Then the sum of the new array should be 20.
+ * Then the sum of the new array should be 19.
  * You will have to change the return statement to return your new array.
  */
 
